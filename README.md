@@ -1,2 +1,2 @@
-# Proy-33
-juego de las pelotas muy divertido
+# C34-Est
+Bola demoledora a cargo del estudiante
